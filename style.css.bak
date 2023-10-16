@@ -1,0 +1,345 @@
+body
+{
+	padding:0px;
+	margin:0px;
+}
+header
+{
+	width:100%;
+	height:60px;
+	background-color:white;
+	box-sizing:border-box;
+	float:left;
+	padding:10px;
+	
+}
+#brandname
+{
+	padding:0px;
+	margin:0px;
+	font-family:times new roman;
+	float:left;
+	font-size:30px;
+	color:black;
+}
+#tagline
+{ 
+padding:0px;
+margin:0px;
+float:right;
+font-family:Cambria;
+font-size:18px;
+margin-top:10px;
+color:black;
+}
+
+nav
+{
+	
+    width:100%;
+	height:130px;
+	background-color:red;
+	padding:10px;
+	box-sizing:border-box;
+}
+#Search_box
+{
+	float:left;
+	height:35px;
+	margin-top:20px;
+}
+#search
+{
+	float:left;
+	height:40px;
+	margin-top:20px;
+}
+
+#menu
+{ 
+	margin:10px;
+	width:600px;
+	height:40px;
+
+	float:right;
+	margin-top:20px;
+	
+}
+td
+{
+	width:20%;
+	height:40px;
+	color:black;
+	text-align:center;
+	background-color:white;
+}
+
+section
+{
+	
+	width:100%;
+	height:2280px;
+	float:left;
+	box-sizing:border-box;
+	padding:28px;
+}
+
+#venue
+{
+	float:left;
+}
+#order
+{
+	float:right;
+}
+#popular-mobile
+{
+	width:720px;
+	height:600px;
+	background-color:black;
+	box-sizing:border-box;
+	float:left;
+	clear:left;
+	margin-top:40px;
+	padding:5px;
+}
+#text
+{
+	color:white;
+	font-size:30px;
+	font-family:Calibri;
+	font-weight:bold;
+	margin-left:15px;
+}
+#Mob-images
+{
+	width:300px;
+	height:200px;
+	float:left;
+	box-sizing:border-box;
+	margin:25px;
+	border-width:5px;
+	border-style:solid;
+	border-color:white;
+}
+
+#devices
+{
+	width:600px;
+	height:600px;
+	float:right;
+	box-sizing:border-box;
+	margin-top:40px;
+}
+.Mobile_Phone
+{	width:400px;
+	height:40px;
+	background:black;
+	color:white;
+	font-size:20px;
+	font-family:consolas;
+}
+.phone
+{	width:200px;
+	height:40px;
+	background:black;
+	color:white;	
+	font-size:20px;
+	font-family:consolas;
+}
+
+.name
+{
+	width:400px;
+	background:red;
+	color:white;
+	text-align:justify;
+	font-family:STXihei;
+	font-size:22px;
+}
+.rate
+{
+	width:200px;
+	background:red;
+	color:white;
+	font-family:STXihei;
+	text-align:justify;
+	font-size:22px;
+}
+
+#fieldset
+{
+	width:720px;
+	height:650px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ccc;
+	box-sizing:border-box;
+	float:left;
+	margin-top:40px;
+	padding:10px;
+}
+#legend
+{
+	font-family:sans-serif;
+	font-size:25px;
+	font-weight:bold;
+	color:#323232;
+}
+form
+{
+	color:#323232;
+	
+	font-family:sans-serif;
+}
+
+#box
+{
+	width:100%;
+	height:45px;
+	border-width:2px;
+	border-style:solid;
+	border-color:#ccc;
+	box-sizing:border-box;
+	padding:10px;
+}
+textarea
+{
+	width:100%;
+	height:100px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ccc;
+	box-sizing:border-box;
+	margin-top:10px;
+}
+#submit
+{
+	float:right;
+	width:100px;
+	height:40px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ccc;
+	background-color:white;
+	
+}
+
+#about_box
+{
+	width:600px;
+	height:650px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#ccc;
+	box-sizing:border-box;
+	float:right;
+	margin-top:40px;
+	padding:20px;
+}
+
+#about
+{
+	font-family:sans-serif;
+	text-align:center;
+	
+}
+#about_us
+{
+	margin:0;
+	padding:0;
+	color:#323232;
+	text-align:justify;
+	font-family:sans-serif;
+	line-height:20px;
+}
+#moreproduct-head
+{
+	width:100%;
+	height:45px;
+	float:left;
+	margin-top:40px;
+	box-sizing:border-box;
+}
+
+#moreprohead
+{
+	padding:0;
+	margin:0;
+	text-align:center;
+	padding:8px;
+	font-family:sans-serif;
+}
+
+#pro-img
+{
+	width:300px;
+	height:350px;
+	border-style:solid;
+	border-color:#ccc;
+	border-width:1px;
+	float:left;
+	box-sizing:border-box;
+	margin:20px;
+	margin-left:40px;
+}
+
+#order-now
+{
+	width:150px;
+	height:50px;
+	margin-left:70px;
+	margin-top:15px;
+	background-color:white;
+	color:#323232;
+	font-family:sans-serif;
+	font-size:15px;
+	border-color:#ccc;
+}
+footer
+{
+	width:100%;
+	height:350px;
+	float:left;
+	background-color:red;
+	box-sizing:border-box;
+	padding:25px;
+}
+#contact
+{
+	width:350px;
+	height:300px;
+	float:left;
+	box-sizing:border-box;
+	margin-left:40px;
+	line-height:28px;
+}
+#contact-us
+{
+	padding:0;
+	margin:0;
+	font-family:sans-serif;
+	color:white;
+	text-align:center;
+}
+h5
+{
+	padding:0;
+	margin:0;
+	font-family:sans-serif;
+	font-size:18px;
+	color:white;
+}
+address
+{
+	font-size:13px;
+	color:white;
+}
+
+#map
+{
+	width:500px;
+	height:300px;
+	float:right;
+	box-sizing:border-box;
+}
